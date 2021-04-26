@@ -1,6 +1,6 @@
 //GenBuzz
 const myNumber=25;
-if (typeof(myNumber)==='number') {
+if (typeof myNumber==='number') {
    console.log('This is not a number');
 }
 
